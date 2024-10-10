@@ -51,7 +51,7 @@ export default function Homepage() {
           <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center text-center text-white p-4">
             <h1 className="text-4xl font-bold mb-4">Talk to Us</h1>
             <p className="text-lg mb-6">
-              Tooplate is one of the best HTML CSS templates websites for everyone.
+                Little Fashion brings you the latest trends in fashion. From casual to formal, we offer styles for every occasion. 
             </p>
             <button className="bg-amber-600 text-white py-2 px-6 rounded-lg hover:bg-amber-700 transition duration-300">
               Work With Us
